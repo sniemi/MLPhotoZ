@@ -25,7 +25,7 @@ The example performance, when using Kaggle competition data, is shown in the Fig
 The algorithm used was Gradient Boosting Regression, which builds an additive model in a
 forward stage-wise fashion. 
 
-.. figure:: pics/GBRKaggleResults.pdf
+.. figure:: pics/GBRKaggleResults.png
      :width: 800 px
      :align: center
      :figclass: align-center
@@ -33,7 +33,7 @@ forward stage-wise fashion.
 
 The variable importance is shown in the Figure below.
 
-.. figure:: pics/VariableImportance.pdf
+.. figure:: pics/VariableImportance.png
      :width: 800 px
      :align: center
      :figclass: align-center
